@@ -6,6 +6,9 @@
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
+.skills {
+	background-color: darkcyan;
+}
 #badge {
 	display: flex;
 	flex-direction: column;
@@ -16,7 +19,7 @@
 
 #badge-icon {
 	margin-bottom: 5%;
-	font-size: 150%;
+	font-size: 160%;
 }
 
 html, body, div, span, applet, object,
